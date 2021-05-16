@@ -5,3 +5,6 @@ Research about Digital Renminbi and CBDC:Central Bank Digital Currency
 ・集合知で問題を把握するのがテーマで、公式でない情報も多く含まれます。
 
 ・多くの人の知見共有を期待します。このリポジトリにアップされたものは、MITライセンスで共有されます。
+
+
+![IMG20210513001703](https://user-images.githubusercontent.com/1667148/118384109-1d3da300-b636-11eb-8f48-cae55865a671.jpg)
