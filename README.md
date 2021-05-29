@@ -7,4 +7,5 @@ Research about Digital Renminbi and CBDC:Central Bank Digital Currency
 ・多くの人の知見共有を期待します。このリポジトリにアップされたものは、MITライセンスで共有されます。
 
 
-![IMG20210513001703](https://user-images.githubusercontent.com/1667148/118384109-1d3da300-b636-11eb-8f48-cae55865a671.jpg)
+![C-CNY](https://user-images.githubusercontent.com/1667148/120057027-af03d200-c072-11eb-9703-d8a5ec146098.jpg)
+
